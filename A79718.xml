@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from the Generall Assemblie of the kingdome of Scotland in answer to a declaration sent by the Parliament of England, concerning the King and kingdome. Whereing [sic] they declare, in the name of the kingdome of Scotland, their sense and resolution touching the Kings Majesty, and the kingdome of England, in relation to His Majesties honour, and the kingdoms happinesse. With a briefe abstract of His Majesties letter to the Generall Assembly at Edenburgh, containing the full resolution of the Kings Majesty. Agreed upon by the Generall Assembly, conveened at Edenburgh, / and extracted forth of the originall, by me Sir Archibald Johnston of Warnston Knight. Witnessing my signe and subscription mannuall. A. Johnston, cler.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79718</idno>
+            <idno type="STC">Wing C4213</idno>
+            <idno type="STC">Thomason E433_3</idno>
+            <idno type="STC">ESTC R206167</idno>
+            <idno type="EEBO-CITATION">99865342</idno>
+            <idno type="PROQUEST">99865342</idno>
+            <idno type="VID">117582</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79718)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117582)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from the Generall Assemblie of the kingdome of Scotland in answer to a declaration sent by the Parliament of England, concerning the King and kingdome. Whereing [sic] they declare, in the name of the kingdome of Scotland, their sense and resolution touching the Kings Majesty, and the kingdome of England, in relation to His Majesties honour, and the kingdoms happinesse. With a briefe abstract of His Majesties letter to the Generall Assembly at Edenburgh, containing the full resolution of the Kings Majesty. Agreed upon by the Generall Assembly, conveened at Edenburgh, / and extracted forth of the originall, by me Sir Archibald Johnston of Warnston Knight. Witnessing my signe and subscription mannuall. A. Johnston, cler.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Robert Douglasse, moderator. A. Johnston, cler. Imprimatur, G.M.</note>
+                  <note>Annotation on Thomason copy: "March 20th"; the 8 in imprint date is crossed out and replaced with "7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117582:1"/>
+            <pb facs="tcp:117582:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM THE Generall Assemblie Of the Kingdome of SCOTLAND IN Anſwer to a DECLARATION ſent by the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> concerning the <hi>KING</hi> and <hi>KIGDOME.</hi>
+            </p>
+            <p>Whereing they declare, in the Name of the <hi>Kingdome</hi> of <hi>Scotland,</hi> their ſenſe and reſolution touching the <hi>Kings Majeſty,</hi> and the <hi>Kingdome</hi> of <hi>England,</hi> in relation to His Majeſties Honour, and the <hi>Kingdoms</hi> Happineſſe.</p>
+            <p>With a briefe Abſtract of His Majeſties Letter to the Ge<g ref="char:EOLhyphen"/>nerall Aſſembly at <hi>Edenburgh,</hi> containing the full Reſo<g ref="char:EOLhyphen"/>lution of the <hi>Kings Majeſty.</hi>
+            </p>
+            <p>
+               <hi>Agreed upon by the</hi> Generall Aſſembly, <hi>conveened at</hi> E<g ref="char:EOLhyphen"/>denburgh, <hi>and extracted forth of the Originall, by me</hi> Sir Archibald Johnſton <hi>of</hi> Warnſton <hi>Knight Witneſſing my ſigne and ſubſcription mannuall.</hi>
+            </p>
+            <p>A. JOHNSTON, Cler.</p>
+            <p>
+               <hi>London,</hi> Printed for R. W. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:117582:2"/>
+            <pb n="1" facs="tcp:117582:2"/>
+            <head>A Declaration from the Generall Aſſembly of the King<g ref="char:EOLhyphen"/>dome of <hi>Scotland,</hi> in anſwer to the Declaration ſent by the Parliament of <hi>England.</hi>
+            </head>
+            <p>THe General Aſſembly of the Kirk of <hi>Scotland</hi> having received a Declaration ſent unto them from the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and having taken the ſame into ſerious conſideration, as the importance of ſoweighty mat<g ref="char:EOLhyphen"/>ters did require, have with univerſal conſent reſolved upon this following Anſwer.</p>
+            <p n="1">1. That from the receint ſenſe of the goodneſſe of God in their own late deliverance, and from their earneſt deſire of all happines to our native King and that Kingdom, they bleſſe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Lord in preſerving them in the midſt of ſo many unhappy diviſions and troubles. They alſo give God thanks, for their former and preſent deſires of a Reformation, eſpe<g ref="char:EOLhyphen"/>cialy of Religion, which is the glory and ſtrength of a King<g ref="char:EOLhyphen"/>dome.</p>
+            <p n="2">2. That the hearts of all the Members of this Aſſembly, and of all the wel-affected within this Kingdome, are excce<g ref="char:EOLhyphen"/>dingly grieved, and made heavy, that in ſo long<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n time a<g ref="char:EOLhyphen"/>gainſt the profeſſions both of King and Parliament, and con<g ref="char:EOLhyphen"/>trary to the joynt deſires of the godly in both Kingdoms, to whom it is more dear and precious, then what is deareſt to
+<pb n="2" facs="tcp:117582:3"/>them in the world, the Reformation of Religion hath moved ſo ſlowly, and ſuffered ſo great interruption. The Kirke and Nation when the Lord gave them the calling, conſidered not their own deadnes, nor ſtagger'd not at the promiſe through unbelief, but gave glory to God: And who knoweth (wee ſpeak it in humility and love, and from no other mind, then from a deſire of the bleſſing of God upon our King &amp; that Kingdom) but the Lord hath now ſome controverſie with <hi>England,</hi> which wil not be removed, til firſt and before all the worſhip of his Name and the Government of his Houſe be ſetled according to his own wil. When this deſire ſhal come, it ſhalbe to <hi>England,</hi> after ſo long deſerred hopes, a Tree of life, which ſhal not only yeeld temporal bleſſings unto themſelvs, but alſo ſhal ſpread the branches ſo far, that both this Nation, and other Reformed Kirkes, ſhal find the fruits thereof, to their great ſatisfaction.</p>
+            <p n="3">3. The Commiſſioners of this Kingdom, in the late trea<g ref="char:EOLhyphen"/>ty, conſidering that Religion i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not only the mean of the ſer<g ref="char:EOLhyphen"/>vice of God, and ſaving of ſoules, but it is alſo the baſe and foundation of Kingdoms and States, and the ſtrongeſt band of the ſubjects to their Prince in true loyalty, and to knit the hearts of one to another in true unity and love, they did with preface of all due reſpect add reverence, repreſent in name of this Kingdom, the ſerious thoughts and earneſt de<g ref="char:EOLhyphen"/>ſires for Unity of Religion, that in all his Majeſties Domini<g ref="char:EOLhyphen"/>ons there might be one Confeſſion of Faith, and one form of Kirk-Government; this they conceiued to be acceptable to God Almighty, who delighteth to ſee his people walking in truth and unity: to be a ſpecial meanes for conſerving peace betwixt the Kingdoms, of eaſing the Kings Majeſty, and the publike government of much trouble, which ariſeth from differences of Religion, very grievous to Kings and Eſtates of great content to the King himſelf, to his Nobles, his Cour'
+<pb n="3" facs="tcp:117582:3"/>and all his People, when occaſioned to be abroad, without ſcruple to themſelves, or ſcandal to others, all may reſort to the ſame publike worſhip, as if they were at their owne dwellings; of ſuppreſſing the names of Hereſies, and Sects, Puritans, Conformiſts, Separatiſts, Anabaptiſts, &amp;c. which do rent aſunder the bowels both of Church and Kingdom. His Majeſties late practiſe while hee was here in perſon in reſorting frequently to the exerciſes of publike Worſhip, his Royal actions in eſtabliſhing the Worſhip and Govern<g ref="char:EOLhyphen"/>ment of this Kirk in Parliamen, and in giving order for a competent maintenance to the Miniſtery and Seminaries of the Kirk, and his Majeſties gracious Letter to the Aſſembly which contains his Religious expreſſion.</p>
+            <div type="letter">
+               <head>The chief Heads of His Majesties Letter.</head>
+               <p>
+                  <hi>VVHere any thing is amiſse, we will endeavour a Re<g ref="char:EOLhyphen"/>formation in a fair and orderly way; and when Re<g ref="char:EOLhyphen"/>formation is ſetled, we reſolved with that Authority wherewith God hath veſted us, to defend and maintain it in peace and Li<g ref="char:EOLhyphen"/>berty against all trouble that can come from without, and a<g ref="char:EOLhyphen"/>gainſt all Hereſies, Sects, and Schiſmes, which may ariſe from within.</hi>
+               </p>
+               <p>Upon theſe encouragements, and having ſo patent a doore of hope, the Aſſembly doth confidently expect, that <hi>England</hi> wil not beſtir themſelves in the beſt way for a Reformation of Religion, wherein Chriſt is ſo much concerned in his glory the <hi>KING</hi> in his honour, the <hi>Kirk</hi> and <hi>Kingdom</hi> of <hi>England</hi> in their happineſſe, and this <hi>Kirk</hi> and <hi>Kingdome</hi> in the purity and peace of the Goſpel.</p>
+               <p n="4">4. What hope can the <hi>Kingdom</hi> and <hi>Kirk</hi> of <hi>Scotland</hi> have of a firm and durable peace, till the Oppoſers thereof bee plucked up root and branch, as a Plant which God hath not planted, and from which no better fruits can be expect<g ref="char:EOLhyphen"/>ed, then ſuch ſowr Crapes, as this day ſet on edge the <hi>King<g ref="char:EOLhyphen"/>dom</hi> of <hi>England.</hi>
+               </p>
+               <pb n="4" facs="tcp:117582:4"/>
+               <p n="5">5. The Uſurping Hierarchy being put out of the way, the work wil be eaſie without forcing of any conſcience, to ſet<g ref="char:EOLhyphen"/>tle in <hi>England</hi> the Government of the Reformed <hi>Kirkes</hi> by Aſſemblies. For although the Reformed <hi>Kirkes</hi> doe hold without doubting their <hi>Kirk</hi> Officers, and Kirke Govern<g ref="char:EOLhyphen"/>ment by Aſſemblies higher and lower, in their ſtrong and beautiful ſubordination, to be <hi>Jure Divino,</hi> and perpetual, yet as it differeth from the Office of a Paſtor is almoſt uni<g ref="char:EOLhyphen"/>verſaly acknowledged by the Prelates themſelves and their Adherents, to be but an humane Ordinance, introduced by humane reaſon, and ſetled by humane Law and Cuſtome for ſuppoſed conveiencies, which therefore by humane autho<g ref="char:EOLhyphen"/>rity, without wronging any mans conſcience, may be altered and aboliſhed upon ſo great a neceſſity, as is a hearty con<g ref="char:EOLhyphen"/>junction with all the reformed <hi>Kirks,</hi> a firm and wel groun<g ref="char:EOLhyphen"/>ded peace betwixt the two Kingdomes, formerly divided in themſelves, and betwixt themſelves by this partition wal.</p>
+               <p n="6">6. What may be required of the Kirk of Scotland for ſurthering the work of Uniformity of government, or for a<g ref="char:EOLhyphen"/>greeing upon a common Confeſſion of Faith, Catechiſme, and Directory for Worſhip, ſhal according to the Order given by this Aſſembly, be moſt wilingly performed by us, who long extreamly for the day when King and Parliament ſhal joyn for bringing to paſſe, ſo great and ſo good a work.</p>
+               <closer/>
+               <postscript>
+                  <p>Extracted forth of the Book of the Generall Aſſembly, by me <hi>Sir Archibald Johnſton</hi> Knight, Clericus.</p>
+                  <closer>
+                     <signed>Witneſſing my ſigne and ſubſcription mannual. <hi>A. Johnſton.</hi> Cler.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="letter">
+               <pb n="5" facs="tcp:117582:4"/>
+               <head>
+                  <hi>The Copy of a Letter ſent from the Aſſembly at</hi> Edenburgh, <hi>to the Miniſters of the Church of</hi> England:</head>
+               <opener>
+                  <salute>Right Reverend and beloved in the Lord Ieſus,</salute>
+               </opener>
+               <p>YOu may perceive, that your laſt Letter which came ſo ſeaſonably into our hands, was not onely acceptable unto us, but hath alſo encouraged us to renew, both to the Kings Majeſty, and his great Councel, the deſires of the Commiſſioners of this Kingdom, for unity in Religion in the four particulars remembred by you. We cannot be ignorant, but the oppoſition from Sathan, and worldly men in Kirk, will ſtill be vehement, as it hath beene already.</p>
+               <p>But we are confident, through our Lord Jeſus Chriſt, that the prayers and endeavours of the godly in both Kingdomes will bring the work to a wiſhed and bleſſed iſſue.</p>
+               <p>This whole National Kirk is ſo much concerned in that Reformation and Unity of Religion in both Kingdoms, that without it, we cannot hope for any long time to enjoy our purity and peace, which hath coſt us ſo deer, and is now our chiefeſt comfort and greateſt treaſure; which one cauſe, beſide the honour of God, and the happineſſe of the people of God in that Kingdom) more deſired of us then our lives, is more then ſufficient to move us to contribute all that is in our power for bringing it to paſſe.</p>
+               <p>And ſince we have with ſo great liberty made our de<g ref="char:EOLhyphen"/>ſires and hopes known both to King and Parliament, it is a duty incumbent both to you and Us, who make mention of he Lord, and are Watchmen upon the Wals of Jeruſalem: never more to keep ſilence, nor to hold your peace day nor night, till the righteouſneſſe of Zion go forth as brightneſſe and the ſalvation thereof as a Lamp that burneth</p>
+               <pb n="6" facs="tcp:117582:5"/>
+               <p>And if it ſhall pleaſe the Lord to move the hearts of King and Parliament to hearken unto the motion (for which end we have reſolved to keep a Solemn Faſt and Humilia<g ref="char:EOLhyphen"/>tion in all the Kirkes of this Kingdome, the meane by which we have prevailed in times paſt) we wiſh that the Worke may be begun with ſpeed, and proſecuted with great dili<g ref="char:EOLhyphen"/>gence, by the joynt labours of Divines in both Kingdomes, who may prepare the ſame for the view and examination of a more frequent and Eccleſiaſticke meeting of the beſt affected to Reformation there, and of the Commiſſioners of the General Aſſembly here, that in the end it may have the approbation of the General Aſſembly here, and of all the Kirks there, in the beſt way that may be, we wiſh and hope at laſt in a National Aſſembly.</p>
+               <p>Our Commiſſioners at <hi>Edenburgh</hi> ſhal in our name re<g ref="char:EOLhyphen"/>ceive and return anſwers for promoting ſo great a Work, which we with our heart and ſoule recommend to the bleſ<g ref="char:EOLhyphen"/>ſing of God, and continue,</p>
+               <closer>
+                  <signed>Your loving Brethren, and Fellow-Labourers The Commiſſioners of the Generall Aſ<g ref="char:EOLhyphen"/>ſembly; ſubſcribing by our Moderator, and Clerk.
+<list>
+                        <item>Robert Douglaſſe, Moderator.</item>
+                        <item>
+                           <hi>Vera Copia,</hi> A. Johnſton, Cler.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>G. M.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
